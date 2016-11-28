@@ -1,0 +1,33 @@
+---
+title: "OSEMN Project Data"
+author: "Latasha Papalal"
+date: "28/11/2016"
+output: pdf_document
+---
+
+install.packages("jsonlite")
+install.packages("plyr")
+install.packages("ggplot2")
+library(jsonlite)
+library(ggplot2)
+library(plyr)
+
+```{r, eval=T, echo=T}
+Git_URL <- "https://api.github.com/search/repositories"
+
+JavaScript_URL <- paste0(Git_URL,"?q=language:JavaScript")
+Python_URL <- paste0(Git_URL,"?q=language:Python")
+JS_List <- jsonlite::fromJSON(JavaScript_URL)
+JS_Df <- data.frame(JS_List)
+
+P_List <- jsonlite::fromJSON(Python_URL)
+P_Df <- data.frame(P_List)
+
+
+JS_Rps_Count <- JS_Df[1,"total_count"]
+P_Rps_Count <- P_Df[1,"total_count"]
+Rps_Count <- c(JS_Rps_Count,P_Rps_Count)
+langauge <- c("JavaScript", "Python")
+Rps_Df <- data.frame(langauge, Rps_Count)
+Rps_Df
+```
