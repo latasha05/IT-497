@@ -1,0 +1,138 @@
+---
+title: "Individual Assignment"
+author: "Latasha Papalal"
+date: "28/11/2016"
+output: pdf_document
+---
+#**Q1. Find the 2015 Cricket World Cup venue with the largest capacity.**#
+
+```{r q1 , eval=TRUE, echo=TRUE, warning=FALSE}
+install.packages("rvest")
+library("rvest")
+world_cup<- read_html("http://en.wikipedia.org/wiki/2015_Cricket_World_Cup")
+venues <- html_table(html_nodes(world_cup, "table")[[5]])
+venues$Capacity<-as.numeric(gsub(",","",venues$Capacity))
+max <- venues[which.max(venues$Capacity),1]
+max
+```
+The 2015 Cricket World Cup venue with the largest capacity was `r max`
+
+#**Q2. The American Community Survey distributes downloadable data about United States communities.**#
+```{r Q2, eval=TRUE, echo=TRUE, warning=FALSE}
+download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2Fss06hid.csv",destfile = "MICDATA.csv")
+survey_data <- read.csv("MICDATA")
+Prop_Value <- length (survey_data [which(survey_data$VAL>=24),1])
+Prop_Value
+```
+The answer to Q2 is `r Prop_Value`
+
+#**Q3. Load the Gross Domestic Product data for the 190 ranked countries.**#
+```{r Q3, eval=TRUE, echo=TRUE, warning=F}
+
+rank_data <- read.csv("https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FGDP.csv ")
+colnames(rank_data)<- c("CountryCode", "Ranking","NA", "Economy","Dollars" )
+prod_data <- read.csv("https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FEDSTATS_Country.csv")
+merge_data <- merge(rank_data, prod_data, by="CountryCode")
+filtermerge_data <- merge_data[-c(3, 6:10)]
+filtermerge_data$Ranking<-as.numeric(gsub(",","",filtermerge_data$Ranking), na.rm="TRUE")
+filtermerge_data<-subset(filtermerge_data,filtermerge_data$Ranking<191)
+
+rankprod1<- mean(subset(filtermerge_data, Income.Group %in% "High income: OECD", select = c(Ranking))$Ranking)
+
+rankprod2<- mean(subset(filtermerge_data, Income.Group %in% "High income: nonOECD", select = c(Ranking))$Ranking)
+
+```
+The answer to Q3 is `r rankprod1` for High income: OECD and `r rankprod2` for High income: nonOECD.
+
+#**Q4. Create a bar chart showing the number of broadband users in China for the first and last years in the data set.**#
+```{r Q4, eval=T, echo=T, warning=F}
+library(ggplot2)
+china<-read.csv(file="~/IT-497/chinainet.csv")
+Lastyear <- head(china, 1)
+Firstyear <- tail(china,1)
+Number.of.connection <- c(Lastyear$Number, Firstyear$Number)
+Year <- c("Last","First")
+Tab1 <- data.frame(Year,Number.of.connection)
+
+ggplot(data=Tab1, aes(x=Year, y=Number.of.connection)) + 
+  geom_bar(width=.4, stat="identity", position = "dodge", colour="green") + 
+  xlab("Year") + ylab("Number of Connection") + labs(title="Graph1. The number of broadband users in China for the first v/s the last years")
+```
+
+#**Q5. Create a bar chart showing the number of tweets containing “@OhioStateFB” and the number containing “@UMichFootball”.**#
+```{r Q5, eval=T, echo=T, warning=F}
+install.packages("ggplot2")
+install.packages("stringr")
+library("stringr")
+library("ggplot2")
+
+ncaa<-read.csv(file="~/IT-497/ncaa.txt", stringsAsFactors = F, sep = ";", colClasses = "character", header = T)
+oc<- str_count(ncaa, ignore.case("@OhioStateFB"))
+mc<- str_count(ncaa, ignore.case("@UMichFootball"))
+FBtable<- c(oc,mc)
+FBtable1<- c("@OhioStateFB", "@UMichFootball")
+tb4<-cbind(FBtable1, FBtable)
+tb5<- data.frame(tb4)
+ggplot(tb5, aes(x=FBtable1, y=FBtable,fill=FBtable1)) +
+geom_bar(width=.4, stat="identity", position = position_stack()) + xlab("Tweet") + ylab("Tweet Count") + labs(title="Graph2. Number of tweets containing @OhioStateFB vs @UMichFootball")
+```
+
+#**Q6. Recreate the Percent of Primary Care Physicians Selecting Immunization Menu Measure without Exclusion bar chart.**#
+```{r Q6, eval=T, echo=T, warning=F}
+install.packages("rvest")
+install.packages("ggplot2")
+library("rvest")
+library("ggplot2")
+library("reshape2")
+
+imm <- read_html("https://dashboard.healthit.gov/quickstats/pages/FIG-Percent-Medicare-Eligible-Primary-Care-Physicians-Selecting-Immunization-Measure.php")
+imm1 <- html_table(html_nodes(imm, "table"),fill=T)
+imm2<- data.frame(imm1)
+imm2 <- imm2[-c(1,2), ]
+df<- melt(imm2,id.vars='X1')
+ggplot(df, aes(x=X1,y=value,fill=variable))+geom_bar(stat="identity",position = position_dodge())+ xlab("Percent Selecting Immunization Measure without Exclusion") + ylab("Meaningful Use Payment Year") + labs(title="Graph3. Percent of Primary Care Physicians Selecting Immunization Menu Measure without Exclusion")
+```
+
+#**Q7. Which Metropolitan area pays the highest for computer and mathematical occupations?**#
+```{r Q7, eval=T, echo=T, warning=F}
+install.packages("plyr")
+install.packages("rvest")
+library(plyr)
+library(rvest)
+
+salaries<-read_html("http://www.bls.gov/oes/current/oes150000.htm")
+salaries.table<-html_table(html_nodes(salaries, "table")[[10]],header=T)
+salaries.df<-data.frame(salaries.table$`Hourly mean wage`, salaries.table$`Metropolitan area`)
+colnames(salaries.df)<- c("Hourly Mean Wage", "Metropolitan Area")
+salary.metro.high<-salaries.df$`Metropolitan Area`[which.max(salaries.df$`Hourly Mean Wage`)]
+salary.metro.high[1]
+```
+The answer to Q7 is `r salary.metro.high[1]`
+
+#**Q8. Internet users in Africa.**#
+```{r Q8, eval=T, echo=T, warning=F}
+user <- read.csv(file="~/IT-497/q8.csv", stringsAsFactors = F, header = F)
+internet.users<- head(user$V2[1])
+internet.users
+pent.rate.af <- head(user$V2[2])
+pent.rate.af
+pent.rate.wd <- head(user$V2[3])
+pent.rate.wd
+```
+The text of your answer should be, "The answer to Q8 is ,`r internet.users`, `r pent.rate.af` %, and `r pent.rate.wd`%.
+
+#**Extra Credit**#
+```{r EC, eval=T, echo=T, warning=F}
+install.packages("quantmod")
+install.packages("lubridate")
+library(quantmod) 
+library(lubridate)
+amazon<- getSymbols("AMZN",auto.assign=F) 
+sample.time <-index(amazon)
+sample.time
+addmargins(table(year(sample.time), weekdays(sample.time)))
+year.2012 <- subset(sample.time, year(sample.time) == "2012")
+a<- length(year.2012)
+b<- length(which(wday(year.2012, label = T) == "Mon"))
+```
+The answer to the extra credit is `r a` and `r b`.
