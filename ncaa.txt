@@ -1,0 +1,260 @@
+"tweets.id" "tweets.created" "tweets.text"
+"1" "801633064199815168" 1479959190 "I can't believe I'm rooting 4 @OhioStateFB over @UMichFootball. I do not like @CoachRodAZ #HailWV or @CoachJim4UM #CollegeGameDay #OSUvsUM"
+"2" "801632088428609536" 1479958958 "@CFBPlayoff @UMichFootball @OhioStateFB @drpepper @espn These rankings are a joke, u have teams lost twice in top ten"
+"3" "801630584690868224" 1479958599 "go @UMichFootball beat @OhioStateFB #MICHvsOSU #TheGame #GoBlue"
+"4" "801629592809185281" 1479958363 "Why isn't the @UMichFootball vs @OhioStateFB game under the lights....PRIME TIME!!!! @NCAAFootball"
+"5" "801628352050266112" 1479958067 "@baronbrwnng @OhioStateFB @AlabamaFTBL @TCUFootball @UCLAFootball @UMichFootball @FSU_Football @TheArdist @Claywill3_  come to Texas!"
+"6" "801627876084895744" 1479957953 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"7" "801624746270007296" 1479957207 "RT @RichEisenShow: The first memory of @OhioStateFB v. @UMichFootball for Urban Meyer wasn't exactly what @richeisen was expecting but made‚Ä¶"
+"8" "801621736013922305" 1479956489 "Will @UMichFootball or @OhioStateFB come out on top Saturday? #CollegeFootballPlayoff #MichiganvsOhioState https://t.co/A6cKFC0qLh"
+"9" "801620387914194944" 1479956168 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"10" "801619086102794240" 1479955858 "Yes it does! @UMichFootball v. @OhioStateFB ! #GoBlue Ì†ΩÌ∏Ü https://t.co/oRyasucPhW"
+"11" "801617840339972096" 1479955561 "@robertpatrickT2 @UMichFootball @RichEisenShow @OhioStateFB @EddieGeorge2727 @richeisen Not gonna happen! Go OSU!"
+"12" "801612971592089600" 1479954400 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"13" "801610865271111680" 1479953898 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"14" "801608856371609601" 1479953419 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"15" "801608738629029888" 1479953391 "@vaughnbroadnax, I maybe a @UMichFootball fan; however I have mad respect for @OhioStateFB."
+"16" "801606723991719936" 1479952910 "RT @TheFanZone404: If #PennState Wins the @bigten, And @OhioStateFB Beats @UMichFootball, do the #NittanyLions go to the #CFP?"
+"17" "801601913737379841" 1479951763 "@ESPNCFB @OhioStateFB @UMichFootball  #espnnow so beating no body to get an inflated record is talent... beating somebody quality is not"
+"18" "801599082770874370" 1479951088 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"19" "801597881216077824" 1479950802 "If #PennState Wins the @bigten, And @OhioStateFB Beats @UMichFootball, do the #NittanyLions go to the #CFP?"
+"20" "801597761862909955" 1479950774 "@robertpatrickT2 @UMichFootball @RichEisenShow @OhioStateFB @EddieGeorge2727 yes!!! Go blue"
+"21" "801597365132128256" 1479950679 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"22" "801595315325386760" 1479950190 "Get to eat all day then watch the @steelers tomorrow. Do nothing on Friday. And @UMichFootball vs @OhioStateFB on Sat. Life is good."
+"23" "801592983430664192" 1479949634 "@baronbrwnng @OhioStateFB @AlabamaFTBL @TCUFootball @UCLAFootball @UMichFootball @FSU_Football @TheArdist @Claywill3_ RTR!We want u at Bama!"
+"24" "801590974594039814" 1479949155 "@baronbrwnng @OhioStateFB @AlabamaFTBL @TCUFootball @UCLAFootball @UMichFootball @FSU_Football @TheArdist @Claywill3_ go to Bama , LB U"
+"25" "801590432169869312" 1479949026 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"26" "801587112516747264" 1479948235 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"27" "801586311140360193" 1479948043 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"28" "801584575994621952" 1479947630 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"29" "801583766607171584" 1479947437 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"30" "801582267999076353" 1479947080 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"31" "801581823339982848" 1479946974 "Hopeful @OhioStateFB and @UMichFootball continues to be a slugfest but remains void of how unsportsmanlike other rivalries have become Ì†ºÌøà"
+"32" "801580124458000384" 1479946568 "RT @RichEisenShow: The great @DesmondHoward joined us on the 25th Anniversary of his famed Heisman Pose for @UMichFootball vs. @OhioStateFB‚Ä¶"
+"33" "801579353586941953" 1479946385 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"34" "801578814451105796" 1479946256 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"35" "801578655591841793" 1479946218 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"36" "801577892102676480" 1479946036 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"37" "801577603077279748" 1479945967 "The great @DesmondHoward joined us on the 25th Anniversary of his famed Heisman Pose for @UMichFootball vs.‚Ä¶ https://t.co/4YB9o7hwnh"
+"38" "801577275409989632" 1479945889 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"39" "801576902049853440" 1479945800 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"40" "801576346023555074" 1479945668 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"41" "801576302230781953" 1479945657 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"42" "801576139781193730" 1479945618 "RT @ESPNCFB: These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02‚Ä¶"
+"43" "801576068964454400" 1479945602 "These @OhioStateFB and @UMichFootball fans around the world don't let distance get in way of their fandom. https://t.co/J7bD02BbQu"
+"44" "801575598401273856" 1479945489 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"45" "801569118407323648" 1479943944 "@robertpatrickT2 @UMichFootball @RichEisenShow @OhioStateFB @EddieGeorge2727 @richeisen as much as I love Scorpion,  GO BUCKS!"
+"46" "801568222122299393" 1479943731 "RT @toledosports: #MondayMemories: A look back at The Game between @OhioStateFB and @UMichFootball on Nov. 19, 1955. https://t.co/2wOFfu3xc‚Ä¶"
+"47" "801566163943772164" 1479943240 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"48" "801562427787657216" 1479942349 "Remember the @UMichFootball and @OhioStateFB game from 2006? Relive #TheGame with this #CollegeFootball action: https://t.co/Qr9TroiCaN"
+"49" "801562260812529664" 1479942309 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"50" "801561361490710528" 1479942095 "Relive #TheGame with past videos from @UMichFootball and @OhioStateFB. Check out #CollegeFootball action from 2013: https://t.co/rNDG72YcVx"
+"51" "801555020953120768" 1479940583 "RT @BradyDisher: YALL WHERE ARE HIS OFFERS SO THIS KID SOME LOVE @AlabamaFTBL @OhioStateFB @UMichFootball @ClemsonFB Ì†ΩÌ±åÌ†ºÌøºÌ†ΩÌ≤ØÌ†ΩÌ≤Ø https://t.co/2FkU‚Ä¶"
+"52" "801554680514039809" 1479940502 "YALL WHERE ARE HIS OFFERS SO THIS KID SOME LOVE @AlabamaFTBL @OhioStateFB @UMichFootball @ClemsonFB Ì†ΩÌ±åÌ†ºÌøºÌ†ΩÌ≤ØÌ†ΩÌ≤Ø https://t.co/2FkUHPDxuY"
+"53" "801552533512736769" 1479939990 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"54" "801541501834711049" 1479937360 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"55" "801541231557955584" 1479937296 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"56" "801540982927949824" 1479937236 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"57" "801531602920673280" 1479935000 "@KirkHerbstreit Herbie, would you be in favor of @OhioStateFB and @UMichFootball each wearing their home jerseys, like USC and UCLA?"
+"58" "801528929123115008" 1479934363 "Where else would we have lunch on Day before @UMichFootball v @OhioStateFB game @AZDetConeygrill #GoBlue https://t.co/vopHaPKZcO"
+"59" "801528214732623880" 1479934192 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"60" "801526240716828672" 1479933722 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"61" "801523819634626560" 1479933144 "RT @rosebowlgame: The Game is the #RoseBowl @B1Gfootball Game of the Week. @UMichFootball and @OhioStateFB in Columbus. Who ya got? https:/‚Ä¶"
+"62" "801523765557469184" 1479933131 "RT @rosebowlgame: The Game is the #RoseBowl @B1Gfootball Game of the Week. @UMichFootball and @OhioStateFB in Columbus. Who ya got? https:/‚Ä¶"
+"63" "801523225775706112" 1479933003 "The Game is the #RoseBowl @B1Gfootball Game of the Week. @UMichFootball and @OhioStateFB in Columbus. Who ya got? https://t.co/LwSblT0R85"
+"64" "801522579831975940" 1479932849 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"65" "801518367979012098" 1479931845 "@CFBPlayoff @UMichFootball @OhioStateFB @drpepper @espn just leave it here in C-bus where it belongs bc we are gonna win it"
+"66" "801518257517760512" 1479931818 "@WolverineDaily @UMichFootball @OhioStateFB Michigan sucks. Go bucks"
+"67" "801517757099606023" 1479931699 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"68" "801517145276481549" 1479931553 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"69" "801516205681086464" 1479931329 "RT @detroitnews: .@espn ramps up @UMichFootball - @OhioStateFB coverage https://t.co/WyQYxE03r3 https://t.co/Sjj3NEKLGk"
+"70" "801515871902564352" 1479931249 "The @bigten/@B1Gfootball's derby  on the gridiron: 
+@UMichFootball v @OhioStateFB 
+#MICHvsOSU forthcoming at 1200/12.00noon Sa26.11 #TheGame"
+"71" "801515823563239424" 1479931238 "RT @detroitnews: .@espn ramps up @UMichFootball - @OhioStateFB coverage https://t.co/WyQYxE03r3 https://t.co/Sjj3NEKLGk"
+"72" "801515667799187457" 1479931201 ".@espn ramps up @UMichFootball - @OhioStateFB coverage https://t.co/WyQYxE03r3 https://t.co/Sjj3NEKLGk"
+"73" "801515258372177920" 1479931103 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"74" "801514376985509891" 1479930893 "@aminajadeTV @UMichFootball @OhioStateFB @BigTenNetwork Looking fantastic Amina!!!"
+"75" "801514121434955777" 1479930832 "Screw @OhioStateFB and @UMichFootball"
+"76" "801511551446482952" 1479930219 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"77" "801511415328555008" 1479930187 "RT @MadeMan: Before @UMichFootball v. @OhioStateFB, @MichaelWeinreb channeled #JimHarbaugh. #milk #khakis #spongebob #enthusiasm https://t.‚Ä¶"
+"78" "801511277394853888" 1479930154 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"79" "801510969402916878" 1479930081 "@KisersBBQ @CFBPlayoff @UMichFootball @OhioStateFB @drpepper @espn YES!!!  Find that comical"
+"80" "801510387040579584" 1479929942 "@CFBPlayoff @cpietranton @UMichFootball @OhioStateFB @drpepper @espn best learn how to spell Columbus!"
+"81" "801510365653827589" 1479929937 "U don‚Äôt have to be a fan of @OhioStateFB or @UMichFootball 2 understand the rivalry of the 2 schools is what makes college football GREAT"
+"82" "801510337388441600" 1479929930 "\"The Game\" is almost here!
+No. 3 @UMichFootball at No. 2 @OhioStateFB. This matchup won't disappoint. 
+https://t.co/5AI6LIVfRT"
+"83" "801510185965617153" 1479929894 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"84" "801509959200604161" 1479929840 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"85" "801509943048282112" 1479929836 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"86" "801509813112995840" 1479929805 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"87" "801508402639867905" 1479929469 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"88" "801508107729960961" 1479929398 "Before @UMichFootball v. @OhioStateFB, @MichaelWeinreb channeled #JimHarbaugh. #milk #khakis #spongebob #enthusiasm‚Ä¶ https://t.co/kytvjDwSnD"
+"89" "801506958566162432" 1479929124 "$565: the average resale ticket price on @Ticketmaster for @UMichFootball at @OhioStateFB this Saturday, per Ticketmaster #TheGame"
+"90" "801506470848249856" 1479929008 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"91" "801506220335136768" 1479928948 "RT @astockeyWTAE: Football this Saturday: @Pitt_FB @CuseFootball on @WTAE at 12:30pm @OhioStateFB @UMichFootball on @thistv and #espn2 at 1‚Ä¶"
+"92" "801506005926281216" 1479928897 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"93" "801505375581306883" 1479928747 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"94" "801505294119473152" 1479928728 "Football this Saturday: @Pitt_FB @CuseFootball on @WTAE at 12:30pm @OhioStateFB @UMichFootball on @thistv and‚Ä¶ https://t.co/EzERid4uP2"
+"95" "801505118290083840" 1479928686 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"96" "801504588541132801" 1479928559 "@Lions vs @Vikings on Thanksgiving and  @UMichFootball vs @OhioStateFB on Saturday! O' this should be good! Ì†æÌ∂ÉÌ†ºÌøàÌ†ΩÌ≥∫"
+"97" "801504283938131968" 1479928487 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"98" "801503981302202368" 1479928415 "@CFBPlayoff @UMichFootball @OhioStateFB @drpepper @espn *Columbus* Put some respeck on it. I ain't gon say it no mo‚Ä¶ https://t.co/ggW9bIBjmO"
+"99" "801503974528602112" 1479928413 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"100" "801503799760322562" 1479928371 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"101" "801503755309117440" 1479928361 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"102" "801503751794262019" 1479928360 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"103" "801503482922549248" 1479928296 "Does @ESPNCFB own shares in @OhioStateFB and @UMichFootball?????? Make it stop!"
+"104" "801503102125932547" 1479928205 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"105" "801503098678034432" 1479928204 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"106" "801503063655780352" 1479928196 "@CFBPlayoff @UMichFootball @OhioStateFB @drpepper @espn it's spelled C O L U M B U S! But not surprised that you all can't spell Ì†ΩÌ∏ÇÌ†ΩÌ∏ÇÌ†ΩÌ∏ÇÌ†ΩÌ∏Ç"
+"107" "801502505007980544" 1479928063 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"108" "801502173939040268" 1479927984 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"109" "801501702700617728" 1479927871 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"110" "801500184735842306" 1479927509 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"111" "801500176963796999" 1479927507 "@CFBPlayoff @UMichFootball @OhioStateFB @drpepper @espn ... and Columbus Ì†ΩÌ∏ê"
+"112" "801499988631187456" 1479927463 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"113" "801499872256000008" 1479927435 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"114" "801499822943571968" 1479927423 "@CFBPlayoff @UMichFootball @OhioStateFB @drpepper @espn I think you mean Columbus.Ì†ΩÌ∏ú"
+"115" "801499368708853760" 1479927315 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"116" "801498580544528384" 1479927127 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"117" "801497708808835072" 1479926919 ".@BillBender92 believes that if Wilton Speight play t/@OhioStateFB @UMichFootball game will be a coin flip LISTEN Sat. @Noon @TheTeam921FM"
+"118" "801497158637723648" 1479926788 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"119" "801496857683886080" 1479926716 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"120" "801496837664415744" 1479926711 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"121" "801496602481459202" 1479926655 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"122" "801495934836342784" 1479926496 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"123" "801495800941580288" 1479926464 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"124" "801495547848884224" 1479926404 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"125" "801495477137141760" 1479926387 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"126" "801495460619829248" 1479926383 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"127" "801495031668506624" 1479926281 "RT @NFL_CFB: The top 6 in the #CFBPlayoff rankings:
+
+1. @AlabamaFTBL
+2. @OhioStateFB
+3. @UMichFootball
+4. @ClemsonFB
+5. @UW_Football 
+6. @B‚Ä¶"
+"128" "801494907676344320" 1479926251 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"129" "801494901972156416" 1479926250 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"130" "801494757193220100" 1479926215 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"131" "801494536866430978" 1479926163 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"132" "801494395241529344" 1479926129 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"133" "801494306385227776" 1479926108 "@CFBPlayoff @UMichFootball @OhioStateFB @drpepper @espn Columbus* Ì†ΩÌ∏ÇÌ†ΩÌ∏ÇÌ†ΩÌ∏ÇÌ†ΩÌ∏Ç"
+"134" "801494067188273152" 1479926051 "@UMichFootball has beaten @OhioStateFB once since I graduated. Excited to see @CoachJim4UM  ushering in a new era."
+"135" "801493931351539718" 1479926018 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"136" "801493517008830471" 1479925920 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"137" "801493440345374720" 1479925901 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"138" "801493069711314944" 1479925813 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"139" "801492687539077120" 1479925722 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"140" "801492607788523520" 1479925703 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"141" "801492583306276864" 1479925697 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"142" "801492293924646912" 1479925628 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"143" "801492283124285440" 1479925625 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"144" "801491931826180096" 1479925542 "@CFBPlayoff @UMichFootball @OhioStateFB @drpepper @espn that tweet sums up #CFBPlayoff . Columbus !!"
+"145" "801491738347110409" 1479925496 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"146" "801491731632029700" 1479925494 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"147" "801491680025137152" 1479925482 "RT @NFL_CFB: The top 6 in the #CFBPlayoff rankings:
+
+1. @AlabamaFTBL
+2. @OhioStateFB
+3. @UMichFootball
+4. @ClemsonFB
+5. @UW_Football 
+6. @B‚Ä¶"
+"148" "801491566883962880" 1479925455 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"149" "801491516514451456" 1479925443 "@CFBPlayoff @UMichFootball @OhioStateFB @drpepper @espn COLOMBUS? What say you, @BlueJacketsNHL?"
+"150" "801491449833553920" 1479925427 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"151" "801491393508241409" 1479925413 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"152" "801491354215972869" 1479925404 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"153" "801491353712685056" 1479925404 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"154" "801491217389416448" 1479925371 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"155" "801491184518627331" 1479925364 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"156" "801491158568419332" 1479925357 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"157" "801491149852704776" 1479925355 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"158" "801491146841145344" 1479925355 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"159" "801491113244762113" 1479925347 "@CFBPlayoff @UMichFootball @OhioStateFB @drpepper @espn HOLY SHIT ITS COLUMBUS"
+"160" "801491085050658816" 1479925340 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"161" "801491081900724225" 1479925339 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"162" "801490983858872320" 1479925316 "@CFBPlayoff @UMichFootball @OhioStateFB @drpepper @espn How about spelling Columbus correctly?"
+"163" "801490954666573824" 1479925309 "@CFBPlayoff @UMichFootball @OhioStateFB @drpepper @espn That's cool, we already have 1 hear in Columbus!!!"
+"164" "801490926019420161" 1479925302 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"165" "801490851738193920" 1479925284 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"166" "801490837532241920" 1479925281 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"167" "801490823061897222" 1479925277 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"168" "801490820570509312" 1479925277 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"169" "801490774290530308" 1479925266 "RT @CFBPlayoff: The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB‚Ä¶"
+"170" "801490590668099584" 1479925222 "The #CFBPlayoff National Championship Trophy is headed to Colombus for @UMichFootball vs. @OhioStateFB. https://t.co/xmJthB3Zw5"
+"171" "801489975674105857" 1479925075 "@UMichFootball bout to whoop dat ass. @OhioStateFB"
+"172" "801486376780894208" 1479924217 "College Football Playoff top four unchanged in latest poll ‚Äî for now
+@AlabamaFB @OhioStateFB @UMichFootball‚Ä¶ https://t.co/GoguHFHv2R"
+"173" "801486368421462016" 1479924215 "@RichEisenShow @richeisen @ChrisLaw @chrisbrockman @UMichFootball @OhioStateFB 
+Always fun to watch Ì†ΩÌ∏ÇÌ†ΩÌ±ç"
+"174" "801484281180626944" 1479923718 "RT @DickieV: My PODCAST on @UMichFootball @OhioStateFB click ESPN in upper right 4  my latest news &amp; get RAFFLE on 2017 MERCEDES https://t.‚Ä¶"
+"175" "801480066441953280" 1479922713 "@RichEisenShow @richeisen @ChrisLaw @chrisbrockman @UMichFootball @OhioStateFB one of my favorite RES traditions!!!"
+"176" "801477066298429440" 1479921997 "RT @DesmondHoward: It's THAT week. @OhioStateFB v @UMichFootball AKA #TheGame"
+"177" "801474619890954240" 1479921414 "ohio vs Michigan can't wait 23-21 I got Michigan for the upset win @espn @UMichFootball @OhioStateFB @FirstTake @RealSkipBayless"
+"178" "801464399030579200" 1479918977 "RT @NFL_CFB: The top 6 in the #CFBPlayoff rankings:
+
+1. @AlabamaFTBL
+2. @OhioStateFB
+3. @UMichFootball
+4. @ClemsonFB
+5. @UW_Football 
+6. @B‚Ä¶"
+"179" "801463633045655552" 1479918795 "Big game with @UMichFootball at @OhioStateFB Let's talk to @EddieGeorge2727 who won @HeismanTrophy there.‚Ä¶ https://t.co/TsgODzWQNm"
+"180" "801463475658747908" 1479918757 "RT @OneUpSports_: Philly Inquirer‚Äôs @JoeJulesinq &amp; @NoahCoslov on how @PennStateFball looks on @UMichFootball vs @OhioStateFB; &amp; Saturday v‚Ä¶"
+"181" "801462447039270912" 1479918512 "@Huntsman__ @WolverineDaily @UMichFootball @OhioStateFB plus people who attend any of their school probably follow Xichigan fans too"
+"182" "801461823123898368" 1479918363 "@_KKamm @WolverineDaily @UMichFootball @OhioStateFB the fact that UM gets the rt is biased.. if I voted OSU it wouldn't appear on other tl's"
+"183" "801460435782434818" 1479918032 "RT @NFL_CFB: The top 6 in the #CFBPlayoff rankings:
+
+1. @AlabamaFTBL
+2. @OhioStateFB
+3. @UMichFootball
+4. @ClemsonFB
+5. @UW_Football 
+6. @B‚Ä¶"
+"184" "801459150844788737" 1479917726 "RT @DesmondHoward: It's THAT week. @OhioStateFB v @UMichFootball AKA #TheGame"
+"185" "801457003386191872" 1479917214 "RT @NFL_CFB: The top 6 in the #CFBPlayoff rankings:
+
+1. @AlabamaFTBL
+2. @OhioStateFB
+3. @UMichFootball
+4. @ClemsonFB
+5. @UW_Football 
+6. @B‚Ä¶"
+"186" "801456906317471744" 1479917191 "@mwmcclure @CFBPlayoff @AlabamaFTBL @OhioStateFB @UMichFootball @ClemsonFB you're joking right?"
+"187" "801450546112577536" 1479915675 "Philly Inquirer‚Äôs @JoeJulesinq &amp; @NoahCoslov on how @PennStateFball looks on @UMichFootball vs @OhioStateFB; &amp; Satu‚Ä¶ https://t.co/a9WtDRO9Yd"
+"188" "801448603445248000" 1479915211 "https://t.co/Yh3Y9hnI4C My latest looks at the top 10 games between @UMichFootball &amp; @OhioStateFB. Hype up for \"The Game\" now @FanSided"
+"189" "801445490260930560" 1479914469 "@031Exception716 @CFBPlayoff @AlabamaFTBL @OhioStateFB @UMichFootball @ClemsonFB they will eventually"
+"190" "801442145798385664" 1479913672 "RT @MsPotts_ESPN: And by epic, I mean 40 hours of programming leading into @UMichFootball at @OhioStateFB (and @KirkHerbstreit working 9 ho‚Ä¶"
+"191" "801441201379508224" 1479913447 "@ESPN_ReceDavis @UMichFootball @UHCougarFB @OSUCoachMeyer pushed the wrong # @OhioStateFB #8 u need 8 teams fair @finebaum @KirkHerbstreit ."
+"192" "801440091382157313" 1479913182 "@ESPN_ReceDavis will Meyer pay @UMichFootball  lose? @UHCougarFB #4 beat 2top 5s  @OSUCoachMeyer @OhioStateFB #6 @finebaum @KirkHerbstreit ."
+"193" "801437227775623168" 1479912499 "And by epic, I mean 40 hours of programming leading into @UMichFootball at @OhioStateFB (and @KirkHerbstreit working 9 hours straight)."
+"194" "801437020077834241" 1479912450 "With #TheGame b/t @UMichFootball&amp;@OhioStateFB fast approaching, DISHER has released part 3 of our analytical preview https://t.co/Ft7FbvHi5M"
+"195" "801434004926906368" 1479911731 "RT @NFL_CFB: The top 6 in the #CFBPlayoff rankings:
+
+1. @AlabamaFTBL
+2. @OhioStateFB
+3. @UMichFootball
+4. @ClemsonFB
+5. @UW_Football 
+6. @B‚Ä¶"
+"196" "801431930877210629" 1479911236 "RT @carlrgoodwin: @therealmissyg @OhioStateFB @UMichFootball Go BLUE!!!"
+"197" "801426791890120704" 1479910011 "RT @NFL_CFB: The top 6 in the #CFBPlayoff rankings:
+
+1. @AlabamaFTBL
+2. @OhioStateFB
+3. @UMichFootball
+4. @ClemsonFB
+5. @UW_Football 
+6. @B‚Ä¶"
+"198" "801426625153921024" 1479909971 "RT @BigTenNetwork: Two words: The Game.
+
+Two numbers: No. 3 at No.  2.
+
+@BTNTomDienhart previews @umichfootball at @OhioStateFB. https://t.‚Ä¶"
+"199" "801418171039281152" 1479907956 "RT @DickieV: My PODCAST on @UMichFootball @OhioStateFB click ESPN in upper right 4  my latest news &amp; get RAFFLE on 2017 MERCEDES https://t.‚Ä¶"
+"200" "801417565562142721" 1479907811 "RT @DickieV: My PODCAST on @UMichFootball @OhioStateFB click ESPN in upper right 4  my latest news &amp; get RAFFLE on 2017 MERCEDES https://t.‚Ä¶"
